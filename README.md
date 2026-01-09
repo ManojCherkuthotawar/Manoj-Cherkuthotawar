@@ -1,5 +1,5 @@
-👋 Hi there, I'm Aamit Kumar
-💼 A Data Scientist @India with 5+ years of experience.
+👋 Hi there, I'm Manoj Cherkuthotawar
+💼 A Data Scientist @India with 0.6 years of experience.
 🔭 Currently focused on Generative AI, expanding expertise in LLMs and advanced neural networks.
 
 🚀 What Defines Me as a Data Scientist
@@ -9,8 +9,8 @@
 ✔ Thrive in Agile environments, collaborating with diverse teams to bring AI into production
 
 💬 Ask Me About: Data Science, AI/ML, Applied Research, Career Growth in Data, and Real-World ML Deployment
-📫 Reach Me At: amitmakode007@gmail.com
-⚡ Fun Fact: An Internationally Certified Career Coach & Mentor, helping aspiring data scientists shape impactful careers
+📫 Reach Me At: manojch69@outlook.com
+⚡ Fun Fact: An Internationally Certified Civil Engineer, helping Corporate Company to grow 
 
 🛠️ Languages and Tools:
 Python R HTML5 CSS3 MySQL MongoDB Snowflake GCP Git GitHub Anaconda Jupyter PyCharm Power BI Hadoop Generative AI Statistics AWS Excel Postman Docker VS Code Airflow JavaScript Flask Pandas NumPy Scikit-learn TensorFlow PyTorch Seaborn FastAPI
