@@ -29,7 +29,11 @@
 ![Skills](https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch)
 
 ### 📊 Data Analysis & Visualization
-![Skills](https://skillicons.dev/icons?i=pandas,numpy,matplotlib,seaborn,excel,powerbi)
+![Skills](https://skillicons.dev/icons?i=excel)
+<img src="https://img.shields.io/badge/Pandas-blue?logo=pandas" />
+<img src="https://img.shields.io/badge/NumPy-blue?logo=numpy" />
+<img src="https://img.shields.io/badge/Seaborn-blue" />
+<img src="https://img.shields.io/badge/PowerBI-yellow?logo=powerbi" />
 
 ### ⚙️ DevOps & Big Data
 ![Skills](https://skillicons.dev/icons?i=docker,airflow)
